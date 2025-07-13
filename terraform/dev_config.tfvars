@@ -1,5 +1,5 @@
 instance_type = "t2.micro"
-key_name      = "ssh-key-ec2" #change this to your key-pair name
+key_name      = "Mentra" #change this to your key-pair name
 # ami_id            = "ami-0f918f7e67a3323f0"
 stage             = "dev"
 shutdown_minutes  = 30
